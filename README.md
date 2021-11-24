@@ -33,11 +33,10 @@
 </p>
 
 
-<div align="center">
-    <h3>MY STATS</h3>
+<h1 align="center">MY STATS</h1>
+<p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezermoz&layout=compact&theme=jolly&count_private=true" /><br />
-</div>
-
+</p>
 
 <p align="center">
     <br>Number of views: <br>
