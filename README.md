@@ -42,5 +42,5 @@
     <br>Number of views: <br>
     <img src="https://profile-counter.glitch.me/Ezermoz/count.svg" />
 </p>
-
+<p align="center">
 **Thank you for NotPunchnox for the readme**
