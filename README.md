@@ -45,4 +45,4 @@
 
 
 <p align="center">
-Thank you for NotPunchnox for the readme
+Thank you NotPunchnox for the readme
