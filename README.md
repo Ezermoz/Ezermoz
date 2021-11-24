@@ -43,4 +43,4 @@
     <img src="https://profile-counter.glitch.me/Ezermoz/count.svg" />
 </p>
 
-# Thank you for NotPunchnox for the readme
+**Thank you for NotPunchnox for the readme**
